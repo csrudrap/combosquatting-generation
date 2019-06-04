@@ -1,2 +1,3 @@
-# combosquatting-generation
-Generative model for Combosquatting domains
+# comboGen
+Generative Model for Combosquatting Domains
+Details in the paper.
