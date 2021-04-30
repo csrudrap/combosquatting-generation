@@ -31,7 +31,7 @@ pymongo==3.6.0
 PyOpenGL==3.0.2
 Pyrex==0.9.8.5
 requests==2.18.4
-rsa==3.4.2
+rsa==4.7
 six==1.11.0
 uritemplate==3.0.0
 urllib3==1.22
